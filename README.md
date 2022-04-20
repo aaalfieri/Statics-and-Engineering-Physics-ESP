@@ -4,7 +4,7 @@
 
 ![](https://thomas.trocha.com/blog/content/images/2020/11/blender_python.png) 
 
-## Installing Add-On
+## Installation
 
 ### 1. Download *Blender*
 
