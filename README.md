@@ -2,7 +2,7 @@
 
 ## Blender & Blender API
 
-![](https://thomas.trocha.com/blog/content/images/2020/11/blender_python.png) 
+![](https://download.blender.org/branding/blender_logo.png) 
 
 ## Installation
 
