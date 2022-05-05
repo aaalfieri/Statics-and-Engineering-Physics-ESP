@@ -4,7 +4,7 @@
 
 
 
-## Blender & Blender API
+## Blender & Python API
 
 ![](https://download.blender.org/branding/blender_logo.png) 
 
