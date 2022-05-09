@@ -31,4 +31,7 @@
 
 ### 4. Using the Add-On
 
+*When adding objects into the scene, Add < Mesh < Choose from Add (Wikihouse Building Blocks)*
+![](https://github.com/aaalfieri/Statics-and-Engineering-Physics-ESP/blob/ac33e24ad3dca193bed64af4ad9e1dc211f2f10c/Screen%20Shot%202022-05-07%20at%202.14.07%20PM.png) 
+
 ## Gallery
