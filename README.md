@@ -2,6 +2,11 @@
 
 ## Code Explanation
 
+*The Wikihouse Skylark 250 is the main building system library (indented for 1-3 story detached buildings). This comprehensive assessment’s experimental study will consist of a python coded software add-on that provides instant access to the library for design and 3D-Printing purposes. The add-on is coded for the open-source 3D Modelling and Scripting software Blender.*
+
+![](https://uploads-ssl.webflow.com/6118e2d27c92cc41c39747a0/61ce22877dc00c710a508697_WikiHouse%202022%20-%20logo%20-%20white.svg)
+
+*You can acces The WikiHouse Project from https://www.wikihouse.cc/*
 
 
 ## Blender & Python API
