@@ -35,3 +35,6 @@
 ![](https://github.com/aaalfieri/Statics-and-Engineering-Physics-ESP/blob/ac33e24ad3dca193bed64af4ad9e1dc211f2f10c/Screen%20Shot%202022-05-07%20at%202.14.07%20PM.png) 
 
 ## Gallery
+
+*Fully rendered Wikihouse Library*
+![](https://github.com/aaalfieri/Statics-and-Engineering-Physics-ESP/blob/1bdd7cd87d5fbcc3112e76701ea0aa2e65ea2b9f/ESP%20RENDER.png)
